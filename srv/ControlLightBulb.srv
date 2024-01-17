@@ -1,0 +1,5 @@
+# Definizione del servizio per controllare lo stato delle lampadine
+
+string command
+---
+string risposta
